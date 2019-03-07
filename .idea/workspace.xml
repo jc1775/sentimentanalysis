@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dd64dd7-b486-411f-b588-24a9739626b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_Course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-2/answers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-2/classwork.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-2/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-2/while-loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/unit-2/problem1.py">
+        <entry file="file://$PROJECT_DIR$/unit-2/while-loops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="583">
+              <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -45,6 +36,8 @@
         <option value="$PROJECT_DIR$/my_file.py" />
         <option value="$PROJECT_DIR$/unit-2/classwork.py" />
         <option value="$PROJECT_DIR$/unit-2/problem1.py" />
+        <option value="$PROJECT_DIR$/unit-2/classword_2.py" />
+        <option value="$PROJECT_DIR$/unit-2/while-loops.py" />
       </list>
     </option>
   </component>
@@ -142,6 +135,14 @@
       <option name="presentableId" value="Default" />
       <updated>1551314411999</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Add for loops&quot;">
+      <created>1551749859202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551749859202</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -150,7 +151,7 @@
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.500612" side_tool="true" weight="0.26263925" />
       <window_info id="Structure" order="1" sideWeight="0.500612" side_tool="true" weight="0.26263925" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.499388" visible="true" weight="0.26520994" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.499388" visible="true" weight="0.26435304" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3297785" />
@@ -159,7 +160,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49957156" visible="true" weight="0.3190437" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49957156" visible="true" weight="0.3206925" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50042844" side_tool="true" weight="0.33059886" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32895815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -168,6 +169,10 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Add for loops&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Add for loops&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/my_file.py">
@@ -187,7 +192,14 @@
     <entry file="file://$PROJECT_DIR$/unit-2/problem1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-2/while-loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
         </state>
       </provider>
     </entry>

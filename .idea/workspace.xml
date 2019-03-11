@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dd64dd7-b486-411f-b588-24a9739626b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/unit-2/while-loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1dd64dd7-b486-411f-b588-24a9739626b1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/unit-2/while-loops.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit-2/functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+            <state relative-caret-position="459">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unit-2/fizzbuzz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -38,12 +44,21 @@
         <option value="$PROJECT_DIR$/unit-2/problem1.py" />
         <option value="$PROJECT_DIR$/unit-2/classword_2.py" />
         <option value="$PROJECT_DIR$/unit-2/while-loops.py" />
+        <option value="$PROJECT_DIR$/unit-2/loopprob1.py" />
+        <option value="$PROJECT_DIR$/unit-2/loopprob2.py" />
+        <option value="$PROJECT_DIR$/unit-2/loopprob3.py" />
+        <option value="$PROJECT_DIR$/unit-2/loopprob4.py" />
+        <option value="$PROJECT_DIR$/unit-2/functionprobs.py" />
+        <option value="$PROJECT_DIR$/unit-2/functions.py" />
+        <option value="$PROJECT_DIR$/unit-2/fizzbuzz.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="2400" />
-    <option name="height" value="1350" />
+    <option name="x" value="600" />
+    <option name="y" value="20" />
+    <option name="width" value="1200" />
+    <option name="height" value="1310" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -146,12 +161,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2400" height="1350" extended-state="0" />
-    <editor active="true" />
+    <frame x="600" y="20" width="1200" height="1310" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.500612" side_tool="true" weight="0.26263925" />
       <window_info id="Structure" order="1" sideWeight="0.500612" side_tool="true" weight="0.26263925" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.499388" visible="true" weight="0.26435304" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.499388" visible="true" weight="0.28747794" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3297785" />
@@ -160,7 +174,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49957156" visible="true" weight="0.3206925" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49957156" visible="true" weight="0.33248082" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50042844" side_tool="true" weight="0.33059886" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32895815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -189,6 +203,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/unit-2/while-loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-2/loopprob1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-2/loopprob2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-2/loopprob3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-2/loopprob4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/unit-2/problem1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -196,10 +245,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unit-2/while-loops.py">
+    <entry file="file://$PROJECT_DIR$/unit-2/functionprobs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-2/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-2/fizzbuzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
         </state>
       </provider>
     </entry>

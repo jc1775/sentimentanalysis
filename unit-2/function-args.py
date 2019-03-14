@@ -72,6 +72,9 @@ def car_type(**kwargs):
         model = kwargs['make']
         col = kwargs['colour']
         print(f'Your {year} {model} is {col}, that\'s so cool')
+    else:
+        pass
+
 car_type(year='2017', make='Subaru', colour='black')
 
 

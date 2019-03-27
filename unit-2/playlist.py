@@ -23,7 +23,9 @@ class Playlist:
             else:
                 while new_list[random_idx] != " ":
                     random_idx = randint(0,list_length)
-                    continue
+                    if new_list[random_idx] == " ":
+                        new_list[random_idx] = idx
+                        break
 
         print(new_list)
         new_list = []

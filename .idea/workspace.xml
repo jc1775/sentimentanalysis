@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1dd64dd7-b486-411f-b588-24a9739626b1" name="Default Changelist" comment="'new additions'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-2/playlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/playlist.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,26 +19,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unit-2/dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="746">
+            <state relative-caret-position="2808">
               <caret line="104" selection-start-line="103" selection-start-column="25" selection-end-line="104" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unit-2/playlist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1269">
-              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+            <state relative-caret-position="810">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unit-5/nhl-api.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -84,11 +85,11 @@
         <option value="$PROJECT_DIR$/unit-2/function-args.py" />
         <option value="$PROJECT_DIR$/unit-2/calculator.py" />
         <option value="$PROJECT_DIR$/unit-2/dictionary.py" />
-        <option value="$PROJECT_DIR$/unit-2/playlist.py" />
         <option value="$PROJECT_DIR$/unit-2/apitest.py" />
         <option value="$PROJECT_DIR$/unit-2/hockey_teams.py" />
         <option value="$PROJECT_DIR$/unit-2/instagram.py" />
         <option value="$PROJECT_DIR$/unit-5/nhl-api.py" />
+        <option value="$PROJECT_DIR$/unit-2/playlist.py" />
       </list>
     </option>
   </component>
@@ -102,6 +103,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python_Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Course" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -118,17 +130,6 @@
               <item name="python-programming" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="unit-5" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Python_Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Course" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -310,19 +311,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2400" height="1350" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.500612" side_tool="true" weight="0.26263925" />
       <window_info id="Structure" order="1" sideWeight="0.500612" side_tool="true" weight="0.26263925" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.499388" visible="true" weight="0.13067695" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.499388" visible="true" weight="0.13239075" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32563892" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32563892" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49957156" visible="true" weight="0.16405606" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49957156" weight="0.16899097" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50042844" side_tool="true" weight="0.33059886" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32895815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -438,7 +440,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unit-2/dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="746">
+        <state relative-caret-position="2808">
           <caret line="104" selection-start-line="103" selection-start-column="25" selection-end-line="104" />
         </state>
       </provider>
@@ -447,13 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit-5/nhl-api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -466,8 +461,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unit-2/playlist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        <state relative-caret-position="810">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit-5/nhl-api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>

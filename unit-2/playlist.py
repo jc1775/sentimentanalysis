@@ -28,7 +28,7 @@ class Playlist:
                         break
 
         print(new_list)
-        new_list = []
+
     def get_songs(self):
         for song in self.playlist:
             return f'{song["Title"]} by {song["Artist"]}'

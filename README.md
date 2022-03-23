@@ -1,20 +1,32 @@
-# About
+# Twitter Sentiment Analysis + Wordcloud Generator
+
+## Index:
+- [Technology](#technology)
+- [Usage](#usage)
+  - [blank](#blank)
+- [Features](#features)
+  - [Blank](#blank)
+- [Custom Features](#custom-features)
+  - [Blank](#blank)
+
+--- 
+
+## Technology
+
+___
+
+## Usage
 
 
+___
+___
 
----
+## Features
 
-# Technology
+___
+___
+
+## Custom Features
 
 
----
-
-# Challenges
-
----
-
-# Solution
-
----
-
-# Features
+___
